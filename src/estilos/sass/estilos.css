@@ -1,0 +1,65 @@
+.h1_Header h1 {
+  color: red; }
+
+.contenedor_tabla {
+  width: 100%;
+  height: 100%; }
+
+.contenedor_tabla .logo {
+  background-color: #E06A4F;
+  width: 100px;
+  height: 60px;
+  border-bottom: solid 1px #fff; }
+
+.contenedor_tabla .informacion {
+  border-left: solid 1px #E06A4F; }
+
+.contenedor_tabla .menu {
+  background-color: #E06A4F;
+  padding-top: 40px; }
+
+#ContenedorPrincipal {
+  width: 100%;
+  height: 100%;
+  background: antiquewhite; }
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s; }
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); }
+
+.infoCard {
+  padding: 2px 16px;
+  background: lightblue; }
+
+.CardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; }
+
+.td1 {
+  padding-right: 20px;
+  padding-right: 20px;
+  text-align: -webkit-right; }
+
+.td2 {
+  width: 50px;
+  height: 50px; }
+
+.td3 {
+  padding-top: 10px; }
+
+.row2 {
+  width: 100%; }
+
+.logo2 {
+  width: 95px;
+  height: 25px; }
+
+.h1_footer h1 {
+  color: blue; }
+
+/*# sourceMappingURL=estilos.css.map */
